@@ -45,8 +45,8 @@ a {
 }
 
 .nav__a {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-family: "roboto";
+
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -59,8 +59,8 @@ a {
   height: 37px;
   background: #ffffff;
   border-radius: 24px;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-family: "roboto";
+
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -78,8 +78,8 @@ a {
 }
 
 .intro__title {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-family: "roboto";
+
   font-style: normal;
   font-weight: 700;
   font-size: 92px;
@@ -89,8 +89,8 @@ a {
 
 .intro__sbt {
   padding-top: 8px;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-family: "roboto";
+
   font-style: normal;
   font-weight: 400;
   font-size: 32px;
@@ -100,8 +100,8 @@ a {
 
 .intro__text {
   width: 560px;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-family: "roboto";
+
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -115,8 +115,8 @@ a {
   height: 51px;
   background: #f7ba0e;
   border-radius: 26px;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-family: "roboto";
+
   font-style: normal;
   font-weight: 500;
   font-size: 18px;
@@ -143,8 +143,8 @@ a {
   box-shadow: 0px 10px 15px rgba(31, 100, 133, 0.1),
     0px 4px 6px rgba(0, 0, 0, 0.05);
   border-radius: 8px;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-family: "roboto";
+
   font-style: normal;
   font-weight: 700;
   font-size: 20px;
@@ -201,7 +201,7 @@ a {
 }
 
 .reason__sbt {
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-family: "roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -213,7 +213,7 @@ a {
 
 .reason__title {
   padding-top: 16px;
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-family: "roboto";
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
@@ -226,7 +226,7 @@ a {
   width: 448px;
   padding-top: 32px;
   padding-bottom: 24px;
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-family: "roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -242,7 +242,7 @@ a {
 
 .ul__title {
   padding-bottom: 16px;
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-family: "roboto";
   font-style: normal;
   font-weight: 600;
   font-size: 22px;
@@ -295,7 +295,7 @@ footer {
 }
 
 .footer__text p {
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-family: "roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -304,7 +304,7 @@ footer {
 }
 
 .white__text {
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-family: "roboto";
   font-style: normal;
   font-weight: 300;
   font-size: 16px;
